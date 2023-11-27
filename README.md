@@ -20,3 +20,10 @@ values of moments to correct the gait of a patient.
 Nine DOF humanoid model for (a) double stance (b) single stance.
 
 ## Results
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r1.png)
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r2.png)
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r3.png)
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r4.png)
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r5.png)
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r6.png)
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r7.png)
