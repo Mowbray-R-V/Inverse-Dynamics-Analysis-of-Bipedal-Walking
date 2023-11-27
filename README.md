@@ -1,4 +1,4 @@
-# Inverse-Dynamics-Analysis-of-Bipedal-Walking- with Contact Contraints
+# Inverse-Dynamics-Analysis-of-Bipedal-Walking- with Contact Constraints
 
 Many spinal cord injury and stroke patients lose their ability to walk. Exoskeletons
 are wearable devices that help them in regaining this ability by applying moments
