@@ -14,3 +14,5 @@ analysis and the zero-moment point (ZMP) concept. We also try to estimate the
 GRF by utilizing the ZMP concept for a 3D whole body analysis. Once the joint
 moments have been computed, the motors of the exoskeleton can then apply these
 values of moments to correct the gait of a patient.
+
+![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/dy.png)
