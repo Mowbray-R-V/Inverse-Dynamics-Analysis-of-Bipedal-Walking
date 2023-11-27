@@ -27,3 +27,12 @@ Nine DOF humanoid model for (a) double stance (b) single stance.
 ![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r5.png)
 ![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r6.png)
 ![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/r7.png)
+
+
+
+## Reference
+1. Craig J (2014) Introduction to Robotics: Mechanics and Control. Pearson Education Limited
+2. Whittle M (2007) Gait Analysis: An Introduction, Fourth Edition. Elsevier
+3.  Schilling R (2003) Fundamentals of Robotics: Analysis and Control. PrenticeHall of India Private Limited
+4.   Schreiber C, Moissenet F (2019) A multimodal dataset of human gait at different walking speeds established on injury-free adult participants. Scientific Data
+  
