@@ -1,4 +1,4 @@
-# Inverse-Dynamics-Analysis-of-Bipedal-Walking
+# Inverse-Dynamics-Analysis-of-Bipedal-Walking- with Contact Contraints
 
 Many spinal cord injury and stroke patients lose their ability to walk. Exoskeletons
 are wearable devices that help them in regaining this ability by applying moments
@@ -18,3 +18,5 @@ values of moments to correct the gait of a patient.
 ![](https://github.com/Mowbray-R-V/Inverse-Dynamics-Analysis-of-Bipedal-Walking/blob/main/dy.png)
 
 Nine DOF humanoid model for (a) double stance (b) single stance.
+
+## Results
