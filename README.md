@@ -1,6 +1,7 @@
 # Inverse-Dynamics-Analysis-of-Bipedal-Walking- with Contact Constraints
 
-# Software :
+_Software_ :
+
 
 # 1.Mathematica for symbolic calculation of inverse dynamics of the linearised model
 
