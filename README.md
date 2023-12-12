@@ -15,8 +15,7 @@ analysis for normal and healthy walking, in order to estimate these joint moment
 Such an analysis typically requires kinematic data and data about the ground
 reaction forces (GRF). Thus in this project, various inverse dynamics models have
 been investigated, in both 2D and 3D, and joint moments have been computed.
-We initially look at models where the GRF is known, and then address the sit-
-uation when data about the GRF might be unavailable. For this, we present a
+We initially look at models where the GRF is known, and then address the situation when data about the GRF might be unavailable. For this, we present a
 novel formulation in which the GRF is estimated from a 2D whole body lagrangian
 analysis and the zero-moment point (ZMP) concept. We also try to estimate the
 GRF by utilizing the ZMP concept for a 3D whole body analysis. Once the joint
