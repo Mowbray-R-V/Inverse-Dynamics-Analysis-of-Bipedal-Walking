@@ -3,9 +3,8 @@
 _Software_ :
 
 
-# 1.Mathematica for symbolic calculation of inverse dynamics of the linearised model
-
-# 2.Matlab for numerical evaluation
+**1.Mathematica for symbolic calculation of inverse dynamics of the linearised model**
+**2.Matlab for numerical evaluation**
 
 
 Many spinal cord injury and stroke patients lose their ability to walk. Exoskeletons
